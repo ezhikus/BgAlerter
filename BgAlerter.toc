@@ -1,0 +1,10 @@
+## Interface: 30000
+## Title: BgAlerter 1.0
+## Notes: Sound alert of Battleground invite
+## RequiredDeps: 
+## OptionalDeps:
+## LoadWith: Blizzard_TalentUI
+## SavedVariables: 
+BgAlerter.lua
+BgAlerter.xml
+
